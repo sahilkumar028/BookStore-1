@@ -1,0 +1,9 @@
+img{
+    width: 200px;
+    aspect-ratio: 2/3;
+    object-fit: cover;
+
+}
+/* #cards{
+    background-color: rgba(18, 16, 16, 0.54);
+} */

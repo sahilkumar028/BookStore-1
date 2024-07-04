@@ -1,0 +1,16 @@
+/* Home.css */
+.jumbotron {
+    background-image: url('https://via.placeholder.com/1500x500'); /* Replace with your image URL */
+    background-size: cover;
+    color: #fff;
+    text-shadow: 2px 2px 4px #000;
+    margin-top: 50px;
+}
+
+.content-section {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-top: -50px;
+}
